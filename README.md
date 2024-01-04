@@ -1,5 +1,7 @@
 # vue-expense-tracker
+
 A simple web app practice to add and delete amounts and using composition API
+
 ![image](https://github.com/amritak27/expense-tracker-app/assets/37371972/9545e68f-ec4d-402d-963a-bfae859aed96)
 
 
